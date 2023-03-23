@@ -8,7 +8,7 @@ public class Greeter01 {
   /**
    * This is a constructor.
    */
-  public Greeter01() {
+  public Greeter() {
 
   }
 
